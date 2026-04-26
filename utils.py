@@ -1,1 +1,2 @@
-
+books = []
+issued_books = []
